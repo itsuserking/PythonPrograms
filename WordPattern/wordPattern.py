@@ -1,3 +1,15 @@
+'''
+
+
+This program Outputs the pattern of entered alphabets
+
+
+
+'''
+
+
+
+
 bg = '  '
 br = '**'
 A = [[bg for col in range(7)] for row in range(7)]
